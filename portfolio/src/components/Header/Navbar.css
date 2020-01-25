@@ -1,0 +1,18 @@
+.navbar {
+    padding-top: 20px;
+    color: white;
+    background-color: rgb(41,41,41);
+    position: fixed;
+    float: left;
+    height: 100%;
+    width: 350px;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+    text-align: center;
+}
+
+.me {
+    padding-bottom: 15px;
+    width: 200px;
+    border-radius: 100%;
+}
